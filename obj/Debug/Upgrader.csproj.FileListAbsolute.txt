@@ -1,0 +1,7 @@
+D:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\Upgrader\bin\Win64_Shipping_Client\Upgrader.dll
+D:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\Upgrader\bin\Win64_Shipping_Client\Upgrader.pdb
+C:\Users\Oxyzine\source\repos\Upgrader\obj\Debug\Upgrader.csprojAssemblyReference.cache
+C:\Users\Oxyzine\source\repos\Upgrader\obj\Debug\Upgrader.csproj.CoreCompileInputs.cache
+C:\Users\Oxyzine\source\repos\Upgrader\obj\Debug\Upgrader.csproj.CopyComplete
+C:\Users\Oxyzine\source\repos\Upgrader\obj\Debug\Upgrader.dll
+C:\Users\Oxyzine\source\repos\Upgrader\obj\Debug\Upgrader.pdb
